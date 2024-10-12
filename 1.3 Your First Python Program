@@ -1,0 +1,14 @@
+Once Python is installed, let’s write the classic "Hello, World!" program.
+This is the simplest program that displays a message to the screen.
+
+code:
+print("Hello, World!")
+
+Try running it in your terminal, IDE, or online platform.
+
+In the terminal:
+
+Open a terminal or command prompt.
+Navigate to the directory where you saved your Python file (e.g., hello.py).
+Type: python hello.py and hit Enter.
+In IDE: Simply write the code and run it using the "Run" button.
