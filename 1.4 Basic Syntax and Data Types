@@ -9,3 +9,10 @@ name = "Alice"  # string
 age = 25  # integer
 height = 5.4  # float
 is_student = True  # boolean
+
+'''
+int: Whole numbers (e.g., 1, 100)
+float: Decimal numbers (e.g., 3.14, 5.0)
+str: Strings, sequences of characters (e.g., "hello")
+bool: Boolean, which can either be True or False
+'''
