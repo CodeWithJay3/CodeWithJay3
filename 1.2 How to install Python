@@ -1,0 +1,11 @@
+You’ll need Python installed on your computer, or you can use an online platform.
+
+1. Installing Python: Download Python from python.org, and follow the installation steps. Make sure to check the box that says "Add Python to PATH" during installation.
+
+2. IDE (Integrated Development Environment): You can use editors like VSCode or PyCharm for writing code. Both have Python support.
+
+3. VSCode: Lightweight, installable from here.
+
+4. PyCharm: More Python-specific, downloadable from here.
+
+5. Alternatively, you can use online platforms like Replit or Google Colab that allow you to write and run Python code without installation.
