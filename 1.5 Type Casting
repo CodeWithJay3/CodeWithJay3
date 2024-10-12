@@ -1,0 +1,65 @@
+You can convert between types if needed:
+code:
+
+# Convert int to float
+x = float(5)  # 5.0
+
+# Convert float to int
+y = int(5.8)  # 5
+
+# Convert number to string
+z = str(100)  # "100"
+
+# Convert int to bool
+is_non_zero = bool(5)  # True (because 5 is non-zero)
+
+print(f"x as float: {x}")
+print(f"y as int: {y}")
+print(f"z as string: '{z}'")
+print(f"Is 5 non-zero (bool): {is_non_zero}")
+
+#################################################################################################
+
+This code includes:
+
+1. Converting an integer to a float.
+2. Converting a float to an integer.
+3. Converting a number to a string.
+4. Converting integers to boolean values.
+
+You can try running this to see how Python handles different types of data conversions. 
+
+#################################################################################################
+
+here's a breakdown of what’s happening in each case:
+
+1. Convert int to float:
+x = float(5)  # 5.0
+
+Here, the integer 5 is converted to a float using the float() function.
+So, x becomes 5.0.
+This is useful when you need to work with decimal numbers, even if the original value was an integer.
+
+#################################################################################################
+
+2. Convert float to int:
+y = int(5.8)  # 5
+
+The int() function is used to convert a float into an integer. 
+It truncates the decimal part, meaning it simply removes the part after the decimal without rounding.
+thus, 5.8 becomes 5.
+
+#################################################################################################
+
+3. Convert number to string:
+z = str(100) 
+
+The str() function converts a numeric value (like an integer or float) into its string representation, preserving the value but changing its type to a string.
+This allows the number to be used in text-based operations such as concatenation or formatting without causing type errors.
+
+ex:- 
+
+100 (integer) becomes "100" (string) after conversion.
+This doesn’t change the value itself but changes how Python interprets it (as a sequence of characters rather than a numeric value).
+
+#################################################################################################
